@@ -27,3 +27,33 @@ Download the latest installer from the **Releases** section and install LynDrop.
 ## License
 
 MIT
+# Screenshots
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Incoming Code
+
+![Incoming Code](screenshots/incoming-code.png)
+
+---
+
+
+## Pair
+
+![Pair](screenshots/pair.png)
+
+---
+
+## Pairing Code
+
+![Pairing Code](screenshots/pairing-code.png)
+
+---
+
+## Saved Files
+
+![Saved Files](screenshots/saved-files.png)
